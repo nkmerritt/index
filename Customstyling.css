@@ -1,0 +1,29 @@
+.rowbkgd{
+background-color: 999999;
+}
+
+.hdtxt{
+Color: #ffffff;
+font-size: 25px;
+Font-family: cursive;
+}
+
+.logotxt{
+  Color: #3d4044;
+  font-size: 50px;
+  Font-family:Tahoma;
+}
+
+.hddntxt{
+  Color: White;
+}
+
+.headertxt{
+  Color: #559ce8;
+  font-size: 25px;
+  Font-family: Tahoma;
+}
+
+.navheader{
+  Color: #f44283;
+}
